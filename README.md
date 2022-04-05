@@ -1,5 +1,8 @@
 # Rantoine
 
+Testing Angular CLI GhPages
+https://github.com/angular-schule/angular-cli-ghpages
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.16.
 
 ## Development server

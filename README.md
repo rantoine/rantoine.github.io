@@ -1,4 +1,4 @@
-# Rantoine
+# Angular & Github Pages
 
 Testing Angular CLI GhPages
 https://github.com/angular-schule/angular-cli-ghpages
